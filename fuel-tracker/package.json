@@ -1,3 +1,7 @@
+"three": "^0.160.0",
+"@react-three/fiber": "^8.15.0",
+"@react-three/drei": "^9.90.0"
+
 {
   "name": "fuel-tracker",
   "version": "1.0.0",
